@@ -1,6 +1,7 @@
 
 🐍 Snake Game – Computer Graphics Project
 
+
 📌 Description
 This is a simple Snake Game implemented using C++ with graphics library. The game features a colorful interface and basic game logic where the snake moves, eats food, and grows in length. The game ends if the snake hits the wall or itself.
 
